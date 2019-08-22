@@ -1,5 +1,5 @@
 # DDos-Attacker
-This is a DDos-Attack running on python3.
+This is a DDos-Attack running on python3.\n
 Drawing on Ha3MrX's DDos-Attack.
 I made the following change:
 Remove Useless Progress bar.
