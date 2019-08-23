@@ -1,6 +1,6 @@
 # DDos-Attacker
 
-This is a DDos-Attack running on python3.\n
+This is a DDos-Attack running on python3.
 
 Drawing on Ha3MrX's DDos-Attack.
 
